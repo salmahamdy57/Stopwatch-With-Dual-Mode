@@ -1,6 +1,6 @@
 # Stopwatch-With-Dual-Mode
 
-### Project Overview 🎛️📟
+### Project Overview 📖
 This project implements a versatile digital stopwatch on an ATmega32 microcontroller, featuring two operational modes: Increment (count‑up) and Decrement (count‑down). Time is displayed via six multiplexed seven‑segment displays, and user interactions are handled through dedicated push buttons and visual/audible indicators.
 
 ### Objective 🎯
@@ -55,3 +55,7 @@ This project implements a versatile digital stopwatch on an ATmega32 microcontro
    - **Adjust Buttons**: Modify hours, minutes, seconds in Countdown mode.  
 4. **Alarm**  
    - Timer stops and PD0 toggles buzzer at 0:0:0 in Decrement mode.
+  
+### Simulation on Proteus 🖥️
+![image](https://github.com/user-attachments/assets/a05196e4-3eb6-47bc-8ed2-238bd428e218)
+
